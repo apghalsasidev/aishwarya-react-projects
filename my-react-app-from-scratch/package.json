@@ -1,0 +1,33 @@
+{
+  "name": "my-react-app-from-scratch",
+  "version": "1.0.0",
+  "description": "This is practice project from scratch",
+  "homepage": "https://github.com/apghalsasidev/aishwarya-react-projects#readme",
+  "bugs": {
+    "url": "https://github.com/apghalsasidev/aishwarya-react-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apghalsasidev/aishwarya-react-projects.git"
+  },
+  "license": "ISC",
+  "author": "Aishwarya Ghalsasi",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "browsersList":[
+    "Last 2 Chrome versiions",
+    "Last 2 Safari versions",
+    "Last 2 Firefox versions ",
+    "Last 2 Edge versionns" 
+  ]
+}
