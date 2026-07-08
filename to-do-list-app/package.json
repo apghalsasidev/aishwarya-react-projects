@@ -1,0 +1,29 @@
+{
+  "name": "to-do-list-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/apghalsasidev/aishwarya-react-projects#readme",
+  "bugs": {
+    "url": "https://github.com/apghalsasidev/aishwarya-react-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apghalsasidev/aishwarya-react-projects.git"
+  },
+  "license": "ISC",
+  "author": "Aishwarya Ghalsasi",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^9.2.0",
+    "@mui/material": "^9.2.0",
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
