@@ -18,16 +18,21 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "babel-jest": "^30.4.1",
     "parcel": "^2.16.4"
   },
   "dependencies": {
+    "@testing-library/react": "^16.3.2",
+    "jest": "^30.4.2",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
   },
-  "browsersList":[
+  "browsersList": [
     "Last 2 Chrome versiions",
     "Last 2 Safari versions",
     "Last 2 Firefox versions ",
-    "Last 2 Edge versionns" 
+    "Last 2 Edge versionns"
   ]
 }

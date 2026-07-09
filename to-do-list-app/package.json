@@ -15,7 +15,7 @@
   "type": "commonjs",
   "scripts": {
     "test": "jest",
-    "start": "parcel src/index.html"
+    "start": "parcel src/index.html --port 3000"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
