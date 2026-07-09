@@ -1,0 +1,34 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "homepage": "https://github.com/apghalsasidev/aishwarya-react-projects#readme",
+  "bugs": {
+    "url": "https://github.com/apghalsasidev/aishwarya-react-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apghalsasidev/aishwarya-react-projects.git"
+  },
+  "license": "ISC",
+  "author": "Aishwarya Ghalsasi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.2.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "vite": "^8.1.4"
+  }
+}
