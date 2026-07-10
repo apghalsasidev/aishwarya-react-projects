@@ -39,9 +39,6 @@ const WeatherCard = ({weatherData}) => {
                         </Grid>
                     </Grid>
                 </Grid>
-                
-                
-                 
             </CardContent>
         </Card>
     )

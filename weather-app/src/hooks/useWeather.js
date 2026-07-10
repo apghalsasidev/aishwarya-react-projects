@@ -14,8 +14,6 @@ export default function useWeather () {
         const responseData = await response.json();
         setData(responseData);
         } catch (error) {
-            console.log(error);
-            
             setLoading(false);
             setData(null);
             setError(error.message);
