@@ -1,0 +1,39 @@
+{
+  "name": "searchable-users-dashboard",
+  "version": "1.0.0",
+  "description": "This is a practice app for Searchable Users Dashboard",
+  "homepage": "https://github.com/apghalsasidev/aishwarya-react-projects#readme",
+  "bugs": {
+    "url": "https://github.com/apghalsasidev/aishwarya-react-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apghalsasidev/aishwarya-react-projects.git"
+  },
+  "license": "ISC",
+  "author": "Aishwarya Ghalsasi",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^5.2.0",
+    "webpack": "^5.106.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
